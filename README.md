@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:0d76bf&height=200&section=header&text=Pranay%20Kumar%20Reddy&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MEAN%20Stack%20%7C%20LeetCode%20Knight&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?Pranay090type=waving&color=0:6e40c9,100:0d76bf&height=200&section=header&text=Pranay%20Kumar%20Reddy&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MEAN%20Stack%20%7C%20LeetCode%20Knight&descAlignY=58&descSize=18" />
 
 <!-- Typing SVG -->
 <a href="https://github.com/pranaykreddy-ch">
@@ -14,10 +14,10 @@
 <a href="mailto:pranaykreddy.ch@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE">
+<a href="https://www.linkedin.com/in/pranayreddy09/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://leetcode.com/YOUR_LEETCODE_HANDLE">
+<a href="https://leetcode.com/u/W_Pranay/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=pranaykreddy-ch&style=for-the-badge&color=6e40c9&label=Profile+Views" />
@@ -29,15 +29,9 @@
 ## 🧠 About Me
 
 ```yaml
-name        : CH. Pranay Kumar Reddy
 location    : Hyderabad, India
 education   : B.Tech CSE @ KMIT (CGPA: 8.55)
 role        : Software Developer Intern @ Inncircles
-stack       : MEAN | MERN | Flutter | AWS
-superpower  : "Building systems that don't break at scale"
-currently   : Crafting ERP features for large-scale construction workflows
-achievement : LeetCode Knight 🏆 — 500+ day streak, Top 5% globally
-fun_fact    : Won 'Best in Financial Innovation' @ National 24-hr Hackathon
 ```
 
 ---
@@ -139,61 +133,7 @@ fun_fact    : Won 'Best in Financial Innovation' @ National 24-hr Hackathon
 </table>
 </div>
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=ffffff&rank_icon=github" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=6e40c9&ring=6e40c9&fire=ff9900&currStreakLabel=6e40c9" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=ffffff&langs_count=8" width="40%" />
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
-
-| 🥇 Achievement | 📋 Details |
-|---|---|
-| ⚔️ **LeetCode Knight** | Top 5% globally · 500+ day active streak |
-| 🏆 **National Hackathon Winner** | Best in Financial Innovation · 24-hr Recurse Technical Club |
-| 🎓 **B.Tech CSE** | CGPA 8.55 · Keshav Memorial Institute of Technology |
-| 🔧 **Production Impact** | 10% test coverage increase · 100+ SonarQube files resolved |
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
-  </picture>
-</div>
-
-> ⚠️ **Snake setup:** Go to your repo → Actions → New Workflow, and add a `snake.yml` to enable the contribution snake animation. See [platane/snk](https://github.com/platane/snk) for setup.
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=6e40c9&line=6e40c9&point=ffffff&area=true&hide_border=true" width="100%" />
-</div>
-
----
 
 <div align="center">
 
