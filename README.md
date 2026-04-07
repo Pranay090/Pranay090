@@ -161,6 +161,6 @@ role        : Software Developer Intern @ Inncircles
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d76bf,100:6e40c9&height=120&section=footer" />
 
-*"First, solve the problem. Then, write the code."*
+*Vibing by day, vibe coding by night*
 
 </div>
