@@ -159,6 +159,6 @@ role        : Software Developer Intern @ Inncircles
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d76bf,100:6e40c9&height=200&section=header&text=Vibing%20by%20day%20%7C%20Vibe%20coding%20by%20night&fontSize=25&fontColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d76bf,100:6e40c9&height=200&section=footer&text=Vibing%20by%20day%20%7C%20Vibe%20coding%20by%20night&fontSize=25&fontColor=ffffff&animation=fadeIn" />
 
 </div>
