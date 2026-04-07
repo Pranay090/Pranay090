@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?Pranay090type=waving&color=0:6e40c9,100:0d76bf&height=200&section=header&text=Pranay%20Kumar%20Reddy&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MEAN%20Stack%20%7C%20LeetCode%20Knight&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:0d76bf&height=200&section=header&text=Pranay%20Kumar%20Reddy&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MEAN%20Stack%20%7C%20LeetCode%20Knight&descAlignY=58&descSize=18" />
 
 <!-- Typing SVG -->
-<a href="https://github.com/pranaykreddy-ch">
+<a href="https://github.com/Pranay090">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Pranay+%F0%9F%91%8B;Full+Stack+Developer+%40+Inncircles;LeetCode+Knight+%E2%9A%94%EF%B8%8F+(Top+5%25+Globally);Building+High-Concurrency+Systems;MEAN+Stack+%7C+MERN+Stack+%7C+Cloud+AWS" alt="Typing SVG" />
 </a>
 
@@ -20,7 +20,7 @@
 <a href="https://leetcode.com/u/W_Pranay/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=pranaykreddy-ch&style=for-the-badge&color=6e40c9&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=Pranay090&style=for-the-badge&color=6e40c9&label=Profile+Views" />
 
 </div>
 
@@ -133,11 +133,64 @@ role        : Software Developer Intern @ Inncircles
 </table>
 </div>
 
+---
 
+## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- Footer Wave -->
+<img src="https://github-readme-stats.vercel.app/api?username=Pranay090&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=ffffff&rank_icon=github" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranay090&theme=tokyonight&hide_border=true&background=0d1117&stroke=6e40c9&ring=6e40c9&fire=ff9900&currStreakLabel=6e40c9" width="48%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay090&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=ffffff&langs_count=8" width="40%" />
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Pranay090&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+
+| 🥇 Achievement | 📋 Details |
+|---|---|
+| ⚔️ **LeetCode Knight** | Top 5% globally · 500+ day active streak |
+| 🏆 **National Hackathon Winner** | Best in Financial Innovation · 24-hr Recurse Technical Club |
+| 🎓 **B.Tech CSE** | CGPA 8.55 · Keshav Memorial Institute of Technology |
+| 🔧 **Production Impact** | 10% test coverage increase · 100+ SonarQube files resolved |
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranay090/Pranay090/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranay090/Pranay090/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Pranay090/Pranay090/output/github-snake.svg" />
+  </picture>
+</div>
+
+> ⚠️ **Snake setup:** In your profile repo → Actions → New Workflow, add a `snake.yml` using [platane/snk](https://github.com/platane/snk) to enable the contribution snake animation.
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranay090&bg_color=0d1117&color=6e40c9&line=6e40c9&point=ffffff&area=true&hide_border=true" width="100%" />
+</div>
+
+---
+
+<div align="center">
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d76bf,100:6e40c9&height=120&section=footer" />
 
 *"First, solve the problem. Then, write the code."*
