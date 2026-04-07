@@ -148,36 +148,6 @@ role        : Software Developer Intern @ Inncircles
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Pranay090&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
-
-| 🥇 Achievement | 📋 Details |
-|---|---|
-| ⚔️ **LeetCode Knight** | Top 5% globally · 500+ day active streak |
-| 🏆 **National Hackathon Winner** | Best in Financial Innovation · 24-hr Recurse Technical Club |
-| 🎓 **B.Tech CSE** | CGPA 8.55 · Keshav Memorial Institute of Technology |
-| 🔧 **Production Impact** | 10% test coverage increase · 100+ SonarQube files resolved |
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranay090/Pranay090/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranay090/Pranay090/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Pranay090/Pranay090/output/github-snake.svg" />
-  </picture>
-</div>
-
-> ⚠️ **Snake setup:** In your profile repo → Actions → New Workflow, add a `snake.yml` using [platane/snk](https://github.com/platane/snk) to enable the contribution snake animation.
-
----
 
 ## 📈 Activity Graph
 
