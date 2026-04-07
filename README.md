@@ -139,12 +139,10 @@ role        : Software Developer Intern @ Inncircles
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pranay090&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=ffffff&rank_icon=github" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranay090&theme=tokyonight&hide_border=true&background=0d1117&stroke=6e40c9&ring=6e40c9&fire=ff9900&currStreakLabel=6e40c9" width="48%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay090&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=ffffff&langs_count=8" width="40%" />
 
 </div>
 
