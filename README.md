@@ -26,17 +26,17 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```yaml
 location    : Hyderabad, India
-education   : B.Tech CSE @ KMIT (CGPA: 8.55)
-role        : Software Developer Intern @ Inncircles
+education   : B.Tech CSE @ KMIT
+current role        : Software Developer Intern @ Inncircles
 ```
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -74,7 +74,7 @@ role        : Software Developer Intern @ Inncircles
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 <table>
@@ -149,7 +149,7 @@ role        : Software Developer Intern @ Inncircles
 ---
 
 
-## 📈 Activity Graph
+## Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranay090&bg_color=0d1117&color=6e40c9&line=6e40c9&point=ffffff&area=true&hide_border=true" width="100%" />
