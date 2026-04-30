@@ -2,7 +2,7 @@
 
 <!-- Typing SVG -->
 <a href="https://github.com/Pranay090">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Pranay+%F0%9F%91%8B;Software Developer+%40+Inncircles;LeetCode+Knight+%E2%9A%94%EF%B8%8F+(Top+5%25+Globally);Building+High-Concurrency+Systems;MEAN+Stack+%7C+MERN+Stack+%7C+Cloud+AWS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Pranay+%F0%9F%91%8B;Software+Developer+%40+Inncircles;LeetCode+Knight+%E2%9A%94%EF%B8%8F+(Top+5%25+Globally);Building+High-Concurrency+Systems;MEAN+Stack+%7C+MERN+Stack+%7C+Cloud+AWS" alt="Typing SVG" />
 </a>
 
 <br/>
