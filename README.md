@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Animated Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:0d76bf&height=200&section=header&text=Pranay%20Kumar%20Reddy&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MEAN%20Stack%20%7C%20LeetCode%20Knight&descAlignY=58&descSize=18" />
-
 <!-- Typing SVG -->
 <a href="https://github.com/Pranay090">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Pranay+%F0%9F%91%8B;Full+Stack+Developer+%40+Inncircles;LeetCode+Knight+%E2%9A%94%EF%B8%8F+(Top+5%25+Globally);Building+High-Concurrency+Systems;MEAN+Stack+%7C+MERN+Stack+%7C+Cloud+AWS" alt="Typing SVG" />
