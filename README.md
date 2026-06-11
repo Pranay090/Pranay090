@@ -17,10 +17,10 @@
 <a href="https://leetcode.com/u/W_Pranay/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=Pranay090&style=for-the-badge&color=6e40c9&label=Profile+Views" />
 <a href="https://pranays-portfolio-page.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
+<img src="https://komarev.com/ghpvc/?username=Pranay090&style=for-the-badge&color=6e40c9&label=Profile+Views" />
 </div>
 
 ---
