@@ -92,7 +92,7 @@ current role  :  Software Developer Intern @ Inncircles
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
       </p>
       <p>
-        Handles <strong>1,800+ req/sec</strong> at ~8–12ms P95 latency. Redis distributed locking + PostgreSQL row-level transactions for zero double-booking. Dynamic pricing engine with 2,500+ cache reads/sec.
+        Handles <strong>1,500+ req/sec</strong> at ~72–75ms P95 latency. Redis distributed locking + PostgreSQL row-level transactions for zero double-booking. Dynamic pricing engine with 2,500+ cache reads/sec.
       </p>
     </td>
     <td width="50%">
